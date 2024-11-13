@@ -91,6 +91,6 @@ Price: 19.1
 
 ------------------------
 
-### Opsiyonel Görevler
-* breadRollType değişkenini Enum tipinde tanımlayınız. 
-* Hamburgerlere eklediğimiz tüm malzemeler için ayrı bir sınıf yazınız. ```Addition``` isminde adlandırılabilir. Composition özelliğinden yararlanarak tüm malzeme ekleme işlemlerini Addition sınıfı üzerinden yönetmeye çalışın.
+### Öneriler
+* breadRollType değişkenini Enum tipinde tanımla. 
+* Hamburgerlere eklediğimiz tüm malzemeler için ayrı bir sınıf yaz. ```Addition``` isminde adlandırılabilir. Composition özelliğinden yararlanarak tüm malzeme ekleme işlemlerini Addition sınıfı üzerinden yönetmeye çalış.
